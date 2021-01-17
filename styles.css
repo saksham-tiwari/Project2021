@@ -1,0 +1,88 @@
+body{
+  background-image: linear-gradient(to right, rgba(239,248,255,0), rgba(239,248,255,1));
+}
+.navbar{
+  border-radius: 10px 35px;
+  padding: 5px;
+  margin: 20px;
+  padding-left: 30px;
+  font-size: 26px;
+  font-style: oblique;
+  background-color: #a3d2ca;
+  color: #db6400;
+}
+a{
+  color: #db6400;
+}
+a:link{
+  text-decoration:none;
+}
+.signinglink{
+  font-size: 19px;
+  margin-left: 675px;
+  text-decoration: underline;
+}
+a:hover{
+  color: black;
+}
+.link-btn{
+  background-color: #eff8ff;
+  border: none;
+  padding: 15px 32px;
+  border-radius: 5px 20px;
+}
+.link-btn:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  color: black;
+}
+.motto{
+  padding: 0;
+  margin-left: 50px;
+  color: #ffe5b9;
+  font-size: 15px;
+}
+.carousel-item{
+  height: 500px;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+hr{
+  margin-left: 42.5%;
+  width: 15%;
+  color: #a3d2ca;
+  border: dotted 10px;
+  border-top: hidden;
+}
+.intro{
+  padding: 20px;
+  background-color: #ffe5b9;
+  width: 70%;
+  margin-left: 15%;
+  color: #500000 ;
+  border-radius: 10px 50px;
+}
+.card{
+  width: 50%;
+  border-style: bold;
+  margin-left: 15%;
+  margin-top: 10px;
+}
+input{
+  margin-top: 5px;
+}
+.btn{
+  width: 220px;
+  margin-left: 25%;
+}
+.btn:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+footer{
+  background-color: #db6400;
+  margin-top: 30px;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  margin-bottom: 5px;
+}
